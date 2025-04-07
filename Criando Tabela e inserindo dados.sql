@@ -1,4 +1,4 @@
-# SQL Para Análise de Dados e Data Science - Capítulo 04
+
 
 
 -- Cria o schema no banco de dados
